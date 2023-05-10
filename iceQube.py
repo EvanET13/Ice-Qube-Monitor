@@ -28,7 +28,7 @@ time.sleep(2)
 soup = BeautifulSoup(page.content,"html.parser")
 
 
-pls = driver.find_element(By.XPATH, '//*[@id="txtDisplay"]').text
+pls = driver.find_element(By.XPATH, '//*[@id="txtTemperatures"]').text
 
 tempInFar = re.search(r'\d+', pls)
 
