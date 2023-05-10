@@ -16,7 +16,6 @@ urlpage = "http://" + url
 
 
 print(color2 + "Parsing Temperature Data from: " + urlpage)
-#urlpage = 'http://10.80.101.75'
 # run chrome webdriver from executable path of your choice
 driver = webdriver.Chrome()
 
