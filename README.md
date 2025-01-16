@@ -13,5 +13,7 @@ This can be used for personal monitoring use on your own server, if need be.
 
 # PRTG version .106 to .110 conversion resources
 https://kb.paessler.com/en/topic/91900-how-can-i-make-my-python-scripts-work-with-the-script-v2-sensor
+
 https://kb.paessler.com/en/topic/91902-why-should-i-use-the-script-v2-sensor
+
 https://www.paessler.com/manuals/prtg/script_v2_sensor
